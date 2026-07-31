@@ -9,7 +9,7 @@ Estudiante del **Diplomado en Visualización de Datos en R** — Universidad del
 
 [Escribe 2-3 líneas: quién eres, en qué trabajas o estudias, y por qué te interesa la analítica de datos.]
 
-📫 Contacto: [tu-email@ejemplo.com] · [LinkedIn: tu perfil]
+📫 Contacto: tefasc20@gmail.com · [LinkedIn: tu perfil]
 
 ---
 
